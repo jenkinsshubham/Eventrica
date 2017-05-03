@@ -1,0 +1,2 @@
+# Eventrica
+Java miniproject
